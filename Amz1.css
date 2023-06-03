@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.si img{
+    border: 0px solid black;
+    width: 150px;
+    margin-left: 48%;
+    margin-top: 50px;
+}
+.contentbox{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 400px;
+    height: 500px;
+    margin-left: 40%;
+    margin-top: 50px;
+    text-align: center;
+    background-color: rgba(231, 205, 200, 0.5);
+
+}
+.final a{
+    text-decoration: none;
+    color: blue;
+}
+
+
+

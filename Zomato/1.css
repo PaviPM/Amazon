@@ -1,0 +1,263 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Add{
+    position: absolute;
+    border: 0px solid black;
+    width: 300px;
+    height: 50px;
+    color:  rgb(212, 209, 218);
+    font-size: x-large;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 900px;
+    margin-top: -660px;
+    cursor: pointer;
+    font-family: Okra, Helvetica, sans-serif;
+
+}
+.login{
+    position: absolute;
+    border: 0px solid black;
+    width: 300px;
+    height: 50px;
+    color: rgb(212, 209, 218);
+    border-color: transparent;
+    font-size: x-large;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1100px;
+    margin-top: -660px;
+    cursor: pointer;
+    font-family:  Okra, Helvetica, sans-serif;
+}
+.signup{
+    position: absolute;
+    border: 0px solid black;
+    width: 300px;
+    height: 50px;
+    color: rgb(212, 209, 218);
+    font-size: x-large;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1250px;
+    margin-top: -660px;
+    cursor: pointer;
+    font-family:  Okra, Helvetica, sans-serif;
+
+}
+.zomato{
+    position: absolute;
+    border: 0px solid black;
+    color: rgb(212, 209, 218);
+    margin-top: -450px;
+    width: 700px;
+    height: 200px;
+    margin-left: 40%;
+    font-size: 100px;
+    font-weight: bolder;
+    font-family:  Okra, Helvetica, sans-serif;
+    opacity: 1;
+    text-shadow: 3px 3px 3px;
+    
+}
+.content{
+    position: absolute;
+    border: 0px solid black;
+    color:  rgb(212, 209, 218);
+    width: 600px;
+    height: 100px;
+    margin-top: -250px;
+    font-size: 50px;
+    text-align: center;
+    margin-left: 500px;
+    font-weight: lighter;
+    font-family:  Okra, Helvetica, sans-serif;
+    
+}
+.box{
+    border:  0px solid black;
+    width: 600px;
+    height: 100px;
+    margin-left: 550px;
+    margin-top: 50px;
+    font-family: Okra, Helvetica, sans-serif;
+    font-size: 50px;
+    opacity: .9;
+}
+.para{
+    border: 0px solid black;
+    width: 1100px;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Okra, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-left: 300px;
+    opacity: .7;
+}
+.box1{
+    border: 0px solid rgb(15, 234, 66);
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    box-shadow: 2px 2px 2px;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: -100px;
+    opacity: 0.9;
+}
+.box2{
+    border: 0px solid rgb(15, 234, 66);
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    box-shadow: 2px 2px 2px;
+    font-size: 30px;
+    margin-left: 650px;
+    margin-top: -40px;
+    opacity: 0.9;
+}
+.box3{
+    border: 0px solid rgb(15, 234, 66);
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    box-shadow: 2px 2px 2px;
+    font-size: 30px;
+    margin-left: 1200px;
+    margin-top: -40px;
+    opacity: 0.9;
+    
+}
+.box4{
+        border: 0px solid rgb(15, 234, 66);
+        border-radius: 5px;
+        width: 300px;
+        height: 40px;
+        text-align: center;
+        box-shadow: 2px 2px 2px;
+        font-size: 30px;
+        margin-left: 100px;
+        margin-top: 100px;
+        opacity: 0.9;
+}
+.box5{
+    border: 0px solid rgb(15, 234, 66);
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    box-shadow: 2px 2px 2px;
+    font-size: 30px;
+    margin-left: 650px;
+    margin-top: -40px;
+    opacity: 0.9;
+}
+.box6{
+    border: 0px solid rgb(15, 234, 66);
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    box-shadow: 2px 2px 2px;
+    font-size: 30px;
+    margin-left: 1200px;
+    margin-top: -40px;
+    opacity: 0.9;
+}
+.box7{
+    border: 0px solid rgb(15, 234, 66);
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    box-shadow: 2px 2px 2px;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 100px;
+    opacity: 0.9;
+}
+.box8{
+    border: 0px solid rgb(15, 234, 66);
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    box-shadow: 2px 2px 2px;
+    font-size: 30px;
+    margin-top: -40px;
+    margin-left: 650px;
+    opacity: 0.9;
+}
+.box9{
+    border: 0px solid rgb(15, 234, 66);
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    box-shadow: 2px 2px 2px;
+    font-size: 30px;
+    margin-top: -40px;
+    margin-left: 1200px;
+    opacity: 0.9;
+}
+.box1:hover{
+    cursor: pointer;
+    box-shadow: 8px 8px 8px;
+    color: rgb(4, 4, 96);
+}
+.box2:hover{
+    cursor: pointer;
+    box-shadow: 8px 8px 8px;
+    color: rgb(4, 4, 96);
+}
+.box3:hover{
+    cursor: pointer;
+    box-shadow: 8px 8px 8px;
+    color: rgb(4, 4, 96);
+}
+.box4:hover{
+    cursor: pointer;
+    box-shadow: 8px 8px 8px;
+    color: rgb(4, 4, 96);
+}
+.box5:hover{
+    cursor: pointer;
+    box-shadow: 8px 8px 8px;
+    color: rgb(4, 4, 96);
+}
+.box6:hover{
+    cursor: pointer;
+    box-shadow: 8px 8px 8px;
+    color: rgb(4, 4, 96);
+}
+.box7:hover{
+    cursor: pointer;
+    box-shadow: 8px 8px 8px;
+    color: rgb(4, 4, 96);
+}
+.box8:hover{
+    cursor: pointer;
+    box-shadow: 8px 8px 8px;
+    color: rgb(4, 4, 96);
+}
+.box9:hover{
+    cursor: pointer;
+    box-shadow: 8px 8px 8px;
+    color: rgb(4, 4, 96);
+}
+.end{
+    border: 1px solid rgb(244, 240, 240);
+    width: 90%;
+    height:     10px;
+    padding: 50px;
+}

@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.img{
+    position: relative;
+    background-image: url(/Login.jpg);
+    border: 0px solid black;
+    width: 500px;
+    height:  755px;
+    background-size: cover;
+    margin-left: 1210px;
+    opacity: .9;
+}
+.img2{
+    position: relative;
+    background-image: url(/Itly.jpg);
+    border: 0px solid black;
+    width: 505px;
+    height: 800px;
+    background-size: cover;
+    margin-top: -800px;
+    opacity: .9;
+}
+.log{
+    border: 0px solid black;
+    border-radius: 10px;
+    width: 600px;
+    height: 700px;
+    margin-left: 600px;
+    margin-top: -650px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.otp{
+    cursor: pointer;
+    width: 100px;
+    height: 30px;
+}
+body{
+    background-image:linear-gradient(rgb(237, 79, 79), rgb(219, 219, 97));
+    height: 760px;
+    overflow: hidden;
+}
